@@ -5,6 +5,7 @@ The purpose of this project is to design a world with the Model Editor tool & Bu
 
 Directory Structure
 The sample simulation world folder has the following directory structure:
+
     .Project1                                       # Build My World Project 
     ├── model                                    # Model files 
     │   ├── home
